@@ -36,6 +36,8 @@ Note: This project simulates payment transactions. It does not process real paym
 - CI	GitHub Actions
 
 ## Project Structure
+
+```text
 payment-api/
 ├── frontend/
 │   ├── src/
@@ -57,6 +59,7 @@ payment-api/
 ├── go.mod
 ├── main.go
 └── README.md
+```
 
 ## Prerequisites
 
